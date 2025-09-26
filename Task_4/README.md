@@ -1,5 +1,5 @@
 In this task, I was required to use SQL queries to extract and analyze datasets.  
-I done this task using **POSTGRESQL**
+I done this task using **POSTGRESQL**.
 I performed all the necessary operations such as creating tables, inserting values, ordering data, grouping data, 
 applying aggregate functions, joining tables using the JOIN clause, and creating indexes on table columns.
 
